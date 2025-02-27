@@ -1,6 +1,7 @@
 [build]
-  publish = "sospeter-brian portfolio"
+  publish = "/"
   command = ""
+
 
 [[redirects]]
   from = "/*"
